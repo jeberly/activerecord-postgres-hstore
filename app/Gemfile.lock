@@ -46,7 +46,6 @@ GEM
       mime-types
       treetop (>= 1.4.5)
     mime-types (1.16)
-    pg (0.9.0)
     polyglot (0.3.1)
     rack (1.2.1)
     rack-mount (0.6.13)
@@ -77,5 +76,4 @@ PLATFORMS
 
 DEPENDENCIES
   activerecord-postgres-hstore!
-  pg
   rails (= 3.0.0)
